@@ -36,7 +36,7 @@ Simple steps, you can integrate **MagicIndicator**:
   dependencies {
       ...
       implementation 'com.github.hackware1993:MagicIndicator:1.6.0' // for support lib
-      implementation 'com.github.debashissabar7:Styles Button:1.8.0' // for androidx
+      implementation 'com.github.debashissabar7:StylesButton:1.8.0' // for androidx
   }
   ```
   
